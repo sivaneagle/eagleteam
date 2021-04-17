@@ -1,0 +1,26 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+    background-color: rgb(247, 234, 223);
+    background-size: cover;
+  }
+  .colom{
+      width: 50%;
+      height: 50%;
+      margin-left: 25%;
+      color:red;
+  }
+  button{
+      background-color:;
+  }
+  h1 {
+     margin-left:30%;
+  }
+  h2 {
+    margin-left:25%;
+ }
+ h3 {
+    margin-left:33%;
+ 
+ 
